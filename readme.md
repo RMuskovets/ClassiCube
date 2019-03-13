@@ -3,13 +3,14 @@ ClassiCube is a custom Minecraft Classic and ClassiCube client written in C that
 
 ![screenshot_n](http://i.imgur.com/FCiwl27.png)
 
+Also there is C++ version **[here](https://github.com/RMuskovets/ClassiCube/tree/master/CC++).**
 
 You can grab the latest stable binaries [here](https://cs.classicube.net/c_client/release).
 
 You can grab the very latest builds [here](http://cs.classicube.net/c_client/latest)
 
 #### What ClassiCube is
-* Works with both ~~minecraft.net~~(classic has been removed by Mojang) and classicube.net accounts.
+* Works with classicube.net accounts.
 * Lightweight, minimal memory usage compared to the standard client.
 * Works with effectively all graphics cards that support OpenGL or Direct3D 9.
 * Provides single-player support, and both a flatgrass and vanilla-type map generator.
